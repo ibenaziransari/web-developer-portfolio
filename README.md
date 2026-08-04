@@ -184,17 +184,6 @@ https://github.com/ibelalansari/soc-analyst
 
 ---
 
-# Contact
-
-🐙 **GitHub**  
-https://github.com/ibelalansari
-
-💼 **LinkedIn**  
-https://linkedin.com/in/ibelalansari
-
-📧 **Email**  
-belalansari.bd@gmail.com
-
 📍 **Location**  
 Dhaka, Bangladesh
 
