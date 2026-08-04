@@ -3,42 +3,46 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views">
 </p>
 
 <h1 align="center">Belal Ansari</h1>
 
 <p align="center">
-Cybersecurity Professional • Ethical Hacking • Threat Detection • Security Operations (SOC)
+Cybersecurity Professional • Ethical Hacking • Web Application Security • Threat Detection • Security Operations (SOC)
 </p>
-
-#
-
-# Cybersecurity Portfolio
-
-Professional cybersecurity portfolio showcasing hands-on projects, technical documentation, and security research across offensive security, defensive security, cloud security, and security automation.
 
 ---
 
-## About Me
+# Cybersecurity Portfolio
 
-A cybersecurity professional focused on offensive security, web application security, and blue team operations. This portfolio documents practical projects, laboratory exercises, security research, and technical documentation developed through continuous hands-on practice.
+Professional cybersecurity portfolio showcasing hands-on projects, technical documentation, laboratory exercises, and security research across offensive and defensive security.
 
-### Areas of Interest
+---
+
+# About Me
+
+I am a cybersecurity professional focused on offensive security, web application security, penetration testing, and blue team operations.
+
+This portfolio documents my continuous hands-on learning journey through practical laboratories, real-world methodologies, and structured technical documentation.
+
+---
+
+# Areas of Interest
 
 - Ethical Hacking
 - Web Application Security
 - Penetration Testing
 - SOC Operations
 - Detection Engineering
+- Active Directory Security
 - Cloud Security
-- Security Automation
 
 ---
 
-## Core Skills
+# Core Skills
 
-### Offensive Security
+## Offensive Security
 
 - Reconnaissance
 - OSINT
@@ -47,7 +51,7 @@ A cybersecurity professional focused on offensive security, web application secu
 - Vulnerability Assessment
 - Exploitation Methodology
 
-### Defensive Security
+## Defensive Security
 
 - Security Monitoring
 - Windows Event Logs
@@ -55,13 +59,13 @@ A cybersecurity professional focused on offensive security, web application secu
 - Incident Response
 - Threat Detection
 
-### Programming & Scripting
+## Programming & Scripting
 
 - Python
 - Bash
 - PowerShell
 
-### Operating Systems
+## Operating Systems
 
 - Kali Linux
 - Windows
@@ -69,9 +73,9 @@ A cybersecurity professional focused on offensive security, web application secu
 
 ---
 
-## Security Tools
+# Security Tools
 
-- Burp Suite
+- Burp Suite Professional
 - Nmap
 - SQLMap
 - Wireshark
@@ -79,41 +83,51 @@ A cybersecurity professional focused on offensive security, web application secu
 - Gobuster
 - Hydra
 - Git
+- VS Code
 
 ---
 
-## Featured Repositories
+# Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
-| ethical-hacking | Offensive security documentation and practical labs |
-| soc-learning-journey | SOC Analyst learning portfolio |
-| python-for-cybersecurity | Python scripts for security automation |
-| web-security-labs | Web application security labs |
-| active-directory-labs | Active Directory security labs |
-| cloud-security | Cloud security documentation |
-| bug-bounty-writeups | Responsible disclosure reports |
-| ctf-writeups | Capture The Flag write-ups |
+| **ethical-hacking** | Offensive security methodologies, labs, and technical documentation |
+| **web-application-security** | Web application security, PortSwigger labs, SQL Injection, XSS, CSRF, File Inclusion, RCE |
+| **soc-analyst** | SOC Analyst portfolio covering Windows security, networking, SIEM, and threat detection |
+| **cybersecurity-portfolio** | Central portfolio connecting all cybersecurity repositories |
 
 ---
 
-## Current Focus
+# Planned Repositories
+
+- Active Directory Lab
+- Azure Security
+- Malware Analysis
+- Python for Cybersecurity
+- Cloud Security
+- Bug Bounty Write-ups
+- CTF Write-ups
+
+---
+
+# Current Focus
 
 - Ethical Hacking
 - Web Application Security
+- PortSwigger Web Security Academy
 - Python for Cybersecurity
 - SOC Analyst Skills
 - Active Directory Security
 
 ---
 
-## Learning & Certifications
+# Learning & Certifications
 
-### In Progress
+## In Progress
 
 - Arena Web Security – Ethical Hacking
 
-### Planned
+## Planned
 
 - Microsoft SC-900
 - Microsoft AZ-900
@@ -123,7 +137,7 @@ A cybersecurity professional focused on offensive security, web application secu
 
 ---
 
-## Documentation Standards
+# Documentation Standards
 
 Projects include:
 
@@ -131,45 +145,63 @@ Projects include:
 - Methodology
 - Practical Exercises
 - Commands
+- Screenshots
 - Findings
 - Mitigation
 - References
 
 ---
 
-## Repository Structure
+# Repository Structure
 
+```
 Cybersecurity Portfolio
-
-├── Ethical Hacking
-├── SOC Analyst
-├── Python for Cybersecurity
-├── Web Security Labs
-├── Active Directory Labs
-├── Cloud Security
-├── Bug Bounty
-└── CTF Write-ups
-
----
-
-🔗 **Ethical Hacking:** https://github.com/ibelalansari/ethical-hacking
-
-🔗 **SOC Analyst:** https://github.com/ibelalansari/soc-analyst
- 
----
-
-🤝 **## Contact:-**
-
-🐙 **GitHub:** https://github.com/ibelalansari
-
-💼 **LinkedIn:** https://linkedin.com/in/ibelalansari
-
-📧 **Email:** belalansari.bd@gmail.com
-
-📍 **Location:** Dhaka, Bangladesh
+│
+├── ethical-hacking
+├── web-application-security
+├── soc-analyst
+├── Active-Directory-Lab
+├── Azure-Security
+├── Malware-Analysis
+└── cybersecurity-portfolio
+```
 
 ---
 
-## Disclaimer
+# Repository Links
 
-All content in this portfolio is based on authorized laboratory environments, personal research, and educational exercises. No unauthorized testing has been performed against third-party systems.
+🔗 **Cybersecurity Portfolio**  
+https://github.com/ibelalansari/cybersecurity-portfolio
+
+🔗 **Ethical Hacking**  
+https://github.com/ibelalansari/ethical-hacking
+
+🔗 **Web Application Security**  
+https://github.com/ibelalansari/web-application-security
+
+🔗 **SOC Analyst**  
+https://github.com/ibelalansari/soc-analyst
+
+---
+
+# Contact
+
+🐙 **GitHub**  
+https://github.com/ibelalansari
+
+💼 **LinkedIn**  
+https://linkedin.com/in/ibelalansari
+
+📧 **Email**  
+belalansari.bd@gmail.com
+
+📍 **Location**  
+Dhaka, Bangladesh
+
+---
+
+# Disclaimer
+
+All content in this portfolio is based exclusively on authorized laboratory environments, personal research, and educational exercises.
+
+No unauthorized testing has been performed against third-party systems.
