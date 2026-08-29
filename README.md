@@ -1,196 +1,178 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="Belal Ansari" width="100%">
+  <img src="x100-assets/github-banner.png" alt="Cybersecurity Portfolio" width="100%">
+</p>
+
+<h1 align="center">Cybersecurity Portfolio</h1>
+
+<p align="center">
+  <strong>Web Application Security • API Security • Ethical Hacking • Security Operations</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibelalansari&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views">
-</p>
-
-<h1 align="center">Belal Ansari</h1>
-
-<p align="center">
-Cybersecurity Professional • Ethical Hacking • Web Application Security • Threat Detection • Security Operations (SOC)
+  Practical cybersecurity projects, security research, penetration testing, vulnerability assessment, and defensive security operations.
 </p>
 
 ---
 
-# Cybersecurity Portfolio
+# 🛡️ Cybersecurity Portfolio
 
-Professional cybersecurity portfolio showcasing hands-on projects, technical documentation, laboratory exercises, and security research across offensive and defensive security.
+This repository serves as the **central cybersecurity portfolio hub**, bringing together practical security projects across offensive security, application security, API security, ethical hacking, and security operations.
 
----
-
-# About Me
-
-I am a cybersecurity professional focused on offensive security, web application security, penetration testing, and blue team operations.
-
-This portfolio documents my continuous hands-on learning journey through practical laboratories, real-world methodologies, and structured technical documentation.
+The portfolio is organized around structured repositories containing hands-on laboratories, security assessments, vulnerability research, technical documentation, evidence, and security methodologies.
 
 ---
 
-# Areas of Interest
+# 🔐 Security Domains
 
-- Ethical Hacking
-- Web Application Security
-- Penetration Testing
-- SOC Operations
-- Detection Engineering
-- Active Directory Security
-- Cloud Security
-
----
-
-# Core Skills
-
-## Offensive Security
-
-- Reconnaissance
-- OSINT
-- Authentication Testing
-- Web Application Security
-- Vulnerability Assessment
-- Exploitation Methodology
-
-## Defensive Security
-
-- Security Monitoring
-- Windows Event Logs
-- Network Traffic Analysis
-- Incident Response
-- Threat Detection
-
-## Programming & Scripting
-
-- Python
-- Bash
-- PowerShell
-
-## Operating Systems
-
-- Kali Linux
-- Windows
-- Linux
+| Domain | Focus |
+|---|---|
+| 🌐 Web Application Security | OWASP Top 10 • Web Vulnerability Assessment • Manual Security Testing |
+| 🔵 API Security | OWASP API Security Top 10 • API Testing • Authorization Testing |
+| 🛡️ Ethical Hacking | Reconnaissance • Enumeration • Penetration Testing • Security Assessment |
+| 🔷 Security Operations | SOC • Threat Detection • Log Analysis • Incident Response |
+| 🔎 Vulnerability Research | Discovery • Validation • Impact Assessment • Reporting |
+| ⚙️ Security Engineering | Detection • Hardening • Remediation • Security Methodologies |
 
 ---
 
-# Security Tools
+# ⭐ Security Projects
 
-- Burp Suite Professional
-- Nmap
-- SQLMap
-- Wireshark
-- FFUF
-- Gobuster
-- Hydra
-- Git
-- VS Code
+## 🌐 Web Application Security
 
----
+A practical Web Application Security portfolio focused on vulnerability discovery, validation, exploitation methodology, and professional security documentation.
 
-# Featured Repositories
+### Key Areas
 
-| Repository | Description |
-|------------|-------------|
-| **ethical-hacking** | Offensive security methodologies, labs, and technical documentation |
-| **web-application-security** | Web application security, PortSwigger labs, SQL Injection, XSS, CSRF, File Inclusion, RCE |
-| **soc-analyst** | SOC Analyst portfolio covering Windows security, networking, SIEM, and threat detection |
-| **cybersecurity-portfolio** | Central portfolio connecting all cybersecurity repositories |
-
----
-
-# Planned Repositories
-
-- Active Directory Lab
-- Azure Security
-- Malware Analysis
-- Python for Cybersecurity
-- Cloud Security
-- Bug Bounty Write-ups
-- CTF Write-ups
-
----
-
-# Current Focus
-
-- Ethical Hacking
-- Web Application Security
+- OWASP Top 10
 - PortSwigger Web Security Academy
-- Python for Cybersecurity
-- SOC Analyst Skills
-- Active Directory Security
+- SQL Injection
+- Cross-Site Scripting
+- Cross-Site Request Forgery
+- Authentication
+- Access Control
+- File Upload Security
+- File Inclusion
+- Server-Side Request Forgery
+- Command Injection
+- Path Traversal
+- XXE
+- SSTI
+- JWT Security
+- Insecure Deserialization
+- Vulnerability Assessment
 
----
-
-# Learning & Certifications
-
-## In Progress
-
-- Arena Web Security – Ethical Hacking
-
-## Planned
-
-- Microsoft SC-900
-- Microsoft AZ-900
-- CompTIA Security+
-- eJPT
-- PNPT
-
----
-
-# Documentation Standards
-
-Projects include:
-
-- Objectives
-- Methodology
-- Practical Exercises
-- Commands
-- Screenshots
-- Findings
-- Mitigation
-- References
-
----
-
-# Repository Structure
-
-```
-Cybersecurity Portfolio
-│
-├── ethical-hacking
-├── web-application-security
-├── soc-analyst
-├── Active-Directory-Lab
-├── Azure-Security
-├── Malware-Analysis
-└── cybersecurity-portfolio
-```
-
----
-
-# Repository Links
-
-🔗 **Cybersecurity Portfolio**  
-https://github.com/ibelalansari/cybersecurity-portfolio
-
-🔗 **Ethical Hacking**  
-https://github.com/ibelalansari/ethical-hacking
-
-🔗 **Web Application Security**  
+**Repository:**  
 https://github.com/ibelalansari/web-application-security
 
-🔗 **SOC Analyst**  
+---
+
+## 🔵 API Security Testing
+
+A practical API Security Testing and Vulnerability Research portfolio based on the **OWASP API Security Top 10 — 2023**.
+
+### Key Areas
+
+- API Reconnaissance
+- API Attack Surface Mapping
+- Endpoint & Parameter Analysis
+- Broken Object Level Authorization
+- Broken Authentication
+- Object Property Level Authorization
+- Resource Consumption
+- Function Level Authorization
+- Sensitive Business Flows
+- Server-Side Request Forgery
+- Security Misconfiguration
+- API Inventory Management
+- Unsafe Consumption of APIs
+- Vulnerability Validation
+- Security Reporting
+- Remediation & Retesting
+
+**Repository:**  
+https://github.com/ibelalansari/api-security-testing
+
+---
+
+## 🛡️ Ethical Hacking
+
+A practical offensive security portfolio covering penetration testing methodologies, reconnaissance, enumeration, security tools, vulnerability assessment, and hands-on security laboratories.
+
+### Key Areas
+
+- Reconnaissance
+- Information Gathering
+- OSINT
+- Network Enumeration
+- Web Enumeration
+- Vulnerability Assessment
+- Exploitation Methodology
+- Password Security Testing
+- Network Security
+- Web Penetration Testing
+- Security Tools
+- Technical Reporting
+
+**Repository:**  
+https://github.com/ibelalansari/ethical-hacking
+
+---
+
+## 🔷 SOC Analyst
+
+A defensive security portfolio focused on security monitoring, threat detection, investigation, log analysis, SIEM operations, and incident response.
+
+### Key Areas
+
+- Security Operations
+- Threat Detection
+- Security Monitoring
+- Windows Security
+- Windows Event Logs
+- Network Traffic Analysis
+- SIEM
+- Microsoft Sentinel
+- Detection Engineering
+- Incident Response
+- Security Investigation
+- Digital Forensics
+
+**Repository:**  
 https://github.com/ibelalansari/soc-analyst
 
 ---
 
-📍 **Location**  
-Dhaka, Bangladesh
+# 🧰 Core Security Technologies
+
+| Category | Technologies |
+|---|---|
+| Web Security | Burp Suite Professional • OWASP Methodology |
+| API Security | Burp Suite • API Testing • Authorization Testing |
+| Network Security | Nmap • Wireshark |
+| Web Enumeration | FFUF • Gobuster |
+| Vulnerability Testing | SQLMap |
+| Password Security | Hydra |
+| Operating Systems | Kali Linux • Linux • Windows |
+| Scripting | Python • Bash • PowerShell |
+| Development | Visual Studio Code |
+| Version Control | Git • GitHub |
+| SIEM & Detection | Microsoft Sentinel • Windows Event Logs |
 
 ---
 
-# Disclaimer
+# 📂 Portfolio Architecture
 
-All content in this portfolio is based exclusively on authorized laboratory environments, personal research, and educational exercises.
-
-No unauthorized testing has been performed against third-party systems.
+```text
+Cybersecurity Portfolio
+│
+├── web-application-security/
+│   └── Web Application Security
+│
+├── api-security-testing/
+│   └── API Security Testing
+│
+├── ethical-hacking/
+│   └── Ethical Hacking & Penetration Testing
+│
+└── soc-analyst/
+    └── Security Operations & Threat Detection
