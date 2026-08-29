@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="x100-assets/github-banner.png" alt="Cybersecurity Portfolio" width="100%">
+  <img src="assets/belal-ansari-cybersecurity-banner.png" alt="Belal Ansari" width="100%">
 </p>
 
 <h1 align="center">Cybersecurity Portfolio</h1>
